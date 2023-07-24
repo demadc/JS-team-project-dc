@@ -7,6 +7,7 @@
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /JS-team-project-dc/"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
